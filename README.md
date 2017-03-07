@@ -60,6 +60,7 @@ This is my setup for Mac OS X. Both development and general use.
 	- [Ack](http://brewformulas.org/Ack)
 	- [Wget](http://brewformulas.org/Wget)
 	- [PhantomJs](http://phantomjs.org/)
+	- [Imagemagick](http://brewformulas.org/Imagemagick) (CLI Image Editing)
 - [NVM](https://github.com/creationix/nvm) (Node Version Manager)
 - [RVM](https://rvm.io/) (Ruby Version Manager)
 	- [Bower](https://bower.io/) (Package Manager)

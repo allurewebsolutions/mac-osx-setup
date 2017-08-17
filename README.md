@@ -6,7 +6,7 @@ This is my setup for Mac OS X. Both development and general use.
 - [LastPass](https://www.lastpass.com/) (Password Manager)
 - [HandBrake](https://handbrake.fr) (Video Transcoder)
 - [Google Chrome](https://www.google.com/chrome/)
-	- [AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom?hl=en-US) (Ad Blocker)
+	- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) (Ad Blocker)
 	- [ColorZilla](http://www.colorzilla.com/chrome/) (Color Picker)
 	- [F.B. Purity](http://www.fbpurity.com/) (Facebook Manager)
 	- [Honey](https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj) (Coupon Finder)

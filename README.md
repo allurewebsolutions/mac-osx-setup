@@ -58,7 +58,7 @@ This is my setup for Mac OS X. Both development and general use.
 - [CoRD](http://cord.sourceforge.net/) (Remote Desktop)
 
 ## Development Environment
-- [HomeBrew](https://brew.sh/) (Package Manager)
+- [Macports](https://www.macports.org/) (Package Manager)
 	- [Android SDK](http://brewformulas.org/Android-sdk)
 	- [Ack](http://brewformulas.org/Ack)
 	- [Wget](http://brewformulas.org/Wget)

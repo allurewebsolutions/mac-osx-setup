@@ -37,6 +37,7 @@ This is my setup for Mac OS X. Both development and general use.
 - [Slack](https://slack.com/) (Asynchronous Chat)
 - [Skype](https://www.skype.com/en/) (Video Chat)
 - [Renamer](http://renamer.com/) (Rename Files in Bulk)
+- [Alfred](https://www.alfredapp.com/) (Mac Spotlight Replacement)
 
 ### Development
 - [Gas Mask](https://github.com/2ndalpha/gasmask) (Hosts File Manager)

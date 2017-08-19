@@ -71,4 +71,4 @@ This is my setup for Mac OS X. Both development and general use.
 	- [Yarn](https://yarnpkg.com/en/) (Package Manager)
 - [CocoaPods](https://cocoapods.org/) (iOS Dependency Manager)
 - [Oh My Zsh](http://ohmyz.sh/) (Terminal Manager)
-- [Sensible OS X Defaults](https://github.com/mathiasbynens/dotfiles/blob/master/.osx) (Various OS Defaults)
+- [Sensible OS X Defaults](https://github.com/mathiasbynens/dotfiles/blob/master/.macos) (Various OS Defaults)

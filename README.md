@@ -39,6 +39,7 @@ This is my setup for Mac OS X. Both development and general use.
 - [Renamer](http://renamer.com/) (Rename Files in Bulk)
 - [Alfred](https://www.alfredapp.com/) (Mac Spotlight Replacement)
 - [Paragon NTFS](https://www.paragon-software.com/ufsdhome/ntfs-mac/) (Reads NTFS Formatted Flash Drives)
+- [High Sierra Media Key Enabler](https://github.com/milgra/highsierramediakeyenabler) (Fixed play/pause/prev/next buttons on High Sierra and newer)
 
 ### Development
 - [Gas Mask](https://github.com/2ndalpha/gasmask) (Hosts File Manager)

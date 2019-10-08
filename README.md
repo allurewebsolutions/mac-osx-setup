@@ -76,5 +76,6 @@ This is my setup for Mac OS X. Both development and general use.
 - [Yarn](https://yarnpkg.com/en/) (Package Manager)
 - [CocoaPods](https://cocoapods.org/) (iOS Dependency Manager)
 - [Oh My Zsh](http://ohmyz.sh/) (Terminal Manager)
+- [Additioanl Terminal Setup] (https://medium.com/@ivanaugustobd/your-terminal-can-be-much-much-more-productive-5256424658e8)
 - [Sensible OS X Defaults](https://github.com/mathiasbynens/dotfiles/blob/master/.macos) (Various OS Defaults)
 - [ngrok](https://ngrok.com) (Public URLs for testing on mobile device)

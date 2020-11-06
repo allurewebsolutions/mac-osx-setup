@@ -82,3 +82,6 @@ This is my setup for Mac OS X. Both development and general use.
 
 ## Useful Commands
 - Show hidden files in Finder: `defaults write com.apple.Finder AppleShowAllFiles true && killall Finder`
+- [Install PIP](https://ahmadawais.com/install-pip-macos-os-x-python/) - `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py && python get-pip.py`
+- [Install Homebrew](https://brew.sh/) - `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
+- Install Wget and Composer - `brew install wget composer`

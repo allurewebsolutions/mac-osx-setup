@@ -79,6 +79,7 @@ This is my setup for Mac OS X. Both development and general use.
 - [Additioanl Terminal Setup] (https://medium.com/weekly-webtips/my-terminal-setu-iterm2-zsh-powerlevel10k-f7101ffc72c2)
 - [Sensible OS X Defaults](https://github.com/mathiasbynens/dotfiles/blob/master/.macos) (Various OS Defaults)
 - [ngrok](https://ngrok.com) (Public URLs for testing on mobile device)
+- [WP-CLI](https://wp-cli.org/#installing)
 
 ## Useful Commands
 - Show hidden files in Finder: `defaults write com.apple.Finder AppleShowAllFiles true && killall Finder`
